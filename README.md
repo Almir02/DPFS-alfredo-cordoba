@@ -1,39 +1,41 @@
 # DPFS-alfredo-cordoba
-# 🚀 Proyecto de Alfredo Córdoba
 
-¡Hola! Soy **Alfredo Córdoba**, tengo 28 años y actualmente estoy participando en un curso intensivo de **programación fullstack**. Este proyecto es parte de mi aprendizaje y representa mi progreso en el desarrollo de aplicaciones modernas, abarcando tanto el frontend como el backend.
+## Descripción del sitio
+¡Bienvenido a "MercadoLiebre"! Nuestra página es tu destino único para satisfacer todas tus necesidades de compras en línea, ofecemos una amplia variedad de productos de alta calidad y las mejores marcas. Estamos aquí para hacer que tu experiencia de compra sea fácil, conveniente y emocionante.
 
-## 🧑‍💻 Sobre mí
+Explora nuestro extenso catálogo, que abarca desde tecnología de vanguardia hasta moda elegante, artículos para el hogar, juguetes para todas las edades y mucho más. Además podrás navegar por nuestras múltples categorías, en donde, podrás descubrir ofertas irresistibles que se actualizan constantemente para ofrecerte los precios más competitivos del mercado. Garantizamos una experiencia de compra segura y protegida, con opciones de pago flexibles y envío rápido para que tus productos lleguen a tu puerta en tiempo récord.
 
-Soy una persona apasionada por la tecnología y el aprendizaje continuo. Este curso ha sido una experiencia transformadora, ya que me permite explorar y construir soluciones desde cero. Estoy enfocado en adquirir habilidades prácticas que me preparen para los desafíos del desarrollo web.
+No te pierdas nuestras promociones exclusivas, descuentos y eventos especiales que te permitirán ahorrar aún más mientras disfrutas de productos de alta calidad. "HorizonMarket" está diseñada para ser tu destino preferido, donde encontrarás todo lo que necesitas, y un poco más. ¡Explora, descubre y compra con confianza en nuestra tienda en línea definitiva!
 
-### 🛠️ Tecnologías en las que estoy trabajando:
-- **Frontend:** HTML, CSS, JavaScript, React.
-- **Backend:** Node.js, Express.
-- **Bases de datos:** MongoDB, MySQL.
-- **Control de versiones:** Git y GitHub.
+## Sitios de referencias
+https://www.pricesmart.com/site/pa/es
 
-## 📂 Sobre este proyecto
+https://www.superxtra.com/?gad_source=1&gclid=EAIaIQobChMIqrza2dXlgwMV6p1aBR1CQg8-EAAYASAAEgI0KPD_BwE
 
-Este repositorio contiene el código de uno de los proyectos desarrollados durante mi curso. Aquí aplico conceptos clave de la programación fullstack, como:
-- **Diseño responsivo y dinámico** para interfaces de usuario.
-- **Gestión de rutas y estados** en aplicaciones React.
-- **APIs RESTful** para manejar operaciones del backend.
-- **Persistencia de datos** utilizando bases de datos.
+https://www.walmart.com/ 
 
-### 📜 Estructura del repositorio
-- `/src`: Código fuente del proyecto.
-- `/public`: Archivos estáticos como imágenes y estilos globales.
-- `README.md`: Este documento con detalles sobre mí y el proyecto.
+https://www.amazon.com/?&tag=googleglobalp-20&ref=pd_sl_7nnedyywlk_e&adgrpid=159651196451&hvpone=&hvptwo=&hvadid=675114638556&hvpos=&hvnetw=g&hvrand=5550744843641420427&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1011094&hvtargid=kwd-10573980&hydadcr=2246_13649807 
 
-## 🌟 Objetivos del proyecto
-1. Aplicar los conocimientos adquiridos en frontend y backend.
-2. Crear una aplicación funcional y escalable.
-3. Documentar mi aprendizaje y progreso.
+https://us.shein.com/ 
 
-## 💡 Próximos pasos
-Estoy trabajando en mejorar mis habilidades de depuración y optimización, así como en aprender nuevas tecnologías como TypeScript y frameworks avanzados como Next.js.
+Estos sitios fueron elegidos como referencia ya que, nos parecieron interesantes y llamativos sus diseños, mas aún sus estilos e interfaces muy llamativas
 
----
+## Links De Wireframes
 
-Gracias por visitar este repositorio. Si tienes algún comentario o sugerencia, no dudes en compartirlo. ¡Estoy emocionado por continuar aprendiendo y creciendo como desarrollador fullstack! 🚀
+### WIREFRAME DEL HOME
+https://wireframe.cc/tqO27T
+
+### WIREFRAME DEL DETALLE DEL PRODUCTO
+https://wireframe.cc/uRaMKM
+
+### WIREFRAME DEL CARRITO DE COMPRAS
+https://wireframe.cc/3UgAxc
+
+### WIREFRAME DEL FORMULARIO DE REGISTRO
+https://wireframe.cc/yvm0f6
+
+### WIREFRAME DEL FORMULARIO DE LOG IN
+https://wireframe.cc/M6jL0g
+
+## TABLERO DE TAREAS 
+https://trello.com/b/a6Uqc6Gh/proyecto-digital-house
